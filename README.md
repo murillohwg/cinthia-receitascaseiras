@@ -1,10 +1,9 @@
-# 🍓 Receitas Caseiras da Cinthia
-
-Landing page desenvolvida como projeto de extensão universitária para estruturar a presença digital de um pequeno comércio de salgados e doces caseiros.
+# Receitas Caseiras da Cinthia
+> Landing page desenvolvida como projeto de extensão universitária para estruturar a presença digital de um pequeno comércio de salgados e doces caseiros.
 
 ---
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 A Cinthia é dona de um pequeno comércio de receitas caseiras — salgados crocantes e doces irresistíveis feitos com ingredientes frescos e muito carinho. O objetivo do projeto foi criar uma presença digital simples, bonita e funcional para o negócio, sem necessidade de banco de dados ou servidor — já que a realidade do cliente não comporta esses custos.
 
@@ -12,7 +11,7 @@ O resultado é uma **landing page responsiva** com catálogo de produtos, filtro
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Catálogo de produtos com filtro por categoria (Salgados / Doces)
 - Botão de pedido direto no WhatsApp com mensagem pré-formatada
@@ -24,7 +23,7 @@ O resultado é uma **landing page responsiva** com catálogo de produtos, filtro
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - [React](https://react.dev/) + [Vite](https://vitejs.dev/)
 - [ogl](https://github.com/oframe/ogl) `@0.0.98` — animação de partículas WebGL
@@ -33,7 +32,7 @@ O resultado é uma **landing page responsiva** com catálogo de produtos, filtro
 
 ---
 
-## 🔐 SecDevOps na Prática
+##  SecDevOps na Prática
 
 Este projeto foi desenvolvido com conceitos de SecDevOps aplicados desde o início:
 
@@ -49,7 +48,7 @@ Este projeto foi desenvolvido com conceitos de SecDevOps aplicados desde o iníc
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -71,33 +70,12 @@ src/
     ├── Particles.jsx         # Animação de partículas WebGL
     └── CircularText.jsx      # Texto circular giratório
 ```
+---
+
+**link: https://cinthia-receitas.onrender.com/**
 
 ---
 
-## 🚀 Como Rodar Localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/murillohwg/Cinthia-ReceitasCaseiras.git
-
-# Entre na pasta
-cd Cinthia-ReceitasCaseiras
-
-# Instale as dependências
-npm install
-
-# Rode o servidor de desenvolvimento
-npm run dev
-```
-
----
-
-## 👥 Equipe
-
-Projeto desenvolvido como atividade de extensão universitária — curso de Ciência da Computação.
-
----
-
-## 📄 Licença
+##  Licença
 
 Projeto acadêmico. Todos os direitos do conteúdo reservados à Cinthia Receitas Caseiras.
